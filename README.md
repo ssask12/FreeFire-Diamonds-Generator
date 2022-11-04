@@ -1,5 +1,5 @@
 # FreeFire-Diamonds-Generator
-Go to online tool to get Diamonds:- https://ssask12.github.io/FreeFire-Diamonds-Generator/
+Go to online tool to get Diamonds:- https://diamondsgenerator.tk/
 
 
 ![image](https://user-images.githubusercontent.com/106001865/199208677-91ba97b2-5099-4ef4-81d4-3f1bf579e505.png)
