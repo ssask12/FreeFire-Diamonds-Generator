@@ -2,7 +2,7 @@
 Go to online tool to get Diamonds:- https://diamondsgenerator.tk/
 
 
-![image](https://user-images.githubusercontent.com/106001865/200537826-7898961b-cc1a-42de-89bf-c0e2d2e1aa15.png)
+![image](https://user-images.githubusercontent.com/106001865/200537980-fa36d555-ac70-47b0-bc69-5916c72af152.png)
 
 Free Fire is a mobile battle royale game developed by Garena. The game has over 500 million downloads on Google Play Store and is one of the most downloaded mobile games. Free Fire has a variety of outfits, characters and emotes available, that fascinate the players. However, not all the items are free, and one has to buy them from the in-game shop using Diamonds.
 
